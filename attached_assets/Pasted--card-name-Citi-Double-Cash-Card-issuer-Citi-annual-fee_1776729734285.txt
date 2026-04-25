@@ -1,0 +1,195 @@
+[
+  {
+    "card_name": "Citi Double Cash Card",
+    "issuer": "Citi",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "2% flat cash back (1% when you buy + 1% when you pay)"
+    },
+    "benefits": [
+      "Simple flat-rate earnings",
+      "No category tracking",
+      "Strong everyday spend card",
+      "Balance transfer offers often available"
+    ],
+    "value_tags": ["simplicity", "everyday_spend", "high_efficiency"],
+    "best_for": "Users who want effortless 2% cash back on everything",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 200,
+      "mid_spender_annual_value_25k": 500,
+      "high_spender_annual_value_50k": 1000
+    }
+  },
+
+  {
+    "card_name": "Wells Fargo Active Cash Card",
+    "issuer": "Wells Fargo",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "2% flat cash rewards"
+    },
+    "benefits": [
+      "2% unlimited cash rewards",
+      "Cell phone protection (select plans)",
+      "0% intro APR offers often available"
+    ],
+    "value_tags": ["simplicity", "insurance_bonus", "cashback_core"],
+    "best_for": "People who want simple cashback with light perks",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 200,
+      "mid_spender_annual_value_25k": 500,
+      "high_spender_annual_value_50k": 1000
+    }
+  },
+
+  {
+    "card_name": "Chase Freedom Unlimited",
+    "issuer": "Chase",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "1.5% base + 3% dining/drugstores + 5% travel via Chase portal"
+    },
+    "benefits": [
+      "Strong ecosystem integration with Chase points",
+      "High-value travel portal boosts",
+      "Purchase protection benefits",
+      "Fraud protection + extended warranty"
+    ],
+    "value_tags": ["travel_ecosystem", "flex_rewards", "premium_no_fee"],
+    "best_for": "Users who may later upgrade into Chase Sapphire ecosystem",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 225,
+      "mid_spender_annual_value_25k": 650,
+      "high_spender_annual_value_50k": 1300
+    }
+  },
+
+  {
+    "card_name": "Chase Freedom Flex",
+    "issuer": "Chase",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "5% rotating categories + 3% dining/drugstores + 1% base"
+    },
+    "benefits": [
+      "Quarterly 5% bonus categories (gas, Amazon, groceries etc.)",
+      "Strong travel + purchase protections",
+      "Combines well with Chase points ecosystem"
+    ],
+    "value_tags": ["category_optimization", "rotating_cashback", "ecosystem_play"],
+    "best_for": "Users willing to activate quarterly categories for higher yield",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 300,
+      "mid_spender_annual_value_25k": 800,
+      "high_spender_annual_value_50k": 1500
+    }
+  },
+
+  {
+    "card_name": "Discover it Cash Back",
+    "issuer": "Discover",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "5% rotating categories + Cashback Match (first year)"
+    },
+    "benefits": [
+      "Doubles all cashback earned first year",
+      "No annual fee forever",
+      "Strong beginner approval odds",
+      "Category flexibility"
+    ],
+    "value_tags": ["starter_card", "high_first_year_value", "rotating_bonus"],
+    "best_for": "New credit users or high first-year optimization",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 400,
+      "mid_spender_annual_value_25k": 1200,
+      "high_spender_annual_value_50k": 2000
+    }
+  },
+
+  {
+    "card_name": "Capital One SavorOne",
+    "issuer": "Capital One",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "3% dining, groceries, streaming, entertainment + 1% base"
+    },
+    "benefits": [
+      "Strong lifestyle categories",
+      "No foreign transaction fees",
+      "Easy approval profile",
+      "Entertainment cashback boost"
+    ],
+    "value_tags": ["lifestyle_spending", "dining_groceries", "travel_friendly"],
+    "best_for": "Users with heavy dining and entertainment spend",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 300,
+      "mid_spender_annual_value_25k": 750,
+      "high_spender_annual_value_50k": 1400
+    }
+  },
+
+  {
+    "card_name": "Apple Card",
+    "issuer": "Goldman Sachs",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "1% physical, 2% Apple Pay, 3% Apple ecosystem"
+    },
+    "benefits": [
+      "Daily cash instantly usable",
+      "Seamless iPhone integration",
+      "Privacy-focused design",
+      "Simple budgeting interface"
+    ],
+    "value_tags": ["apple_ecosystem", "mobile_pay", "simplicity"],
+    "best_for": "Apple users who use Apple Pay heavily",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 180,
+      "mid_spender_annual_value_25k": 500,
+      "high_spender_annual_value_50k": 1000
+    }
+  },
+
+  {
+    "card_name": "Bank of America Customized Cash Rewards",
+    "issuer": "Bank of America",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "3% chosen category + 2% groceries/wholesale + 1% base"
+    },
+    "benefits": [
+      "Category customization",
+      "Preferred Rewards boost up to +75%",
+      "Strong for Bank of America customers"
+    ],
+    "value_tags": ["custom_rewards", "bank_loyalty_boost", "category_control"],
+    "best_for": "Users with Bank of America/Merrill accounts",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 250,
+      "mid_spender_annual_value_25k": 900,
+      "high_spender_annual_value_50k": 2000
+    }
+  },
+
+  {
+    "card_name": "U.S. Bank Cash+",
+    "issuer": "U.S. Bank",
+    "annual_fee": 0,
+    "rewards": {
+      "structure": "5% on two chosen categories + 2% everyday + 1% base"
+    },
+    "benefits": [
+      "Highly customizable categories",
+      "Strong utility/gas/internet optimization",
+      "High ceiling for optimized users"
+    ],
+    "value_tags": ["optimization_card", "category_hacker", "max_efficiency"],
+    "best_for": "Advanced users optimizing spend categories",
+    "hypothetical_value_model": {
+      "low_spender_annual_value_10k": 300,
+      "mid_spender_annual_value_25k": 1000,
+      "high_spender_annual_value_50k": 2200
+    }
+  }
+]
